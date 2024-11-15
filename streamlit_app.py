@@ -21,6 +21,10 @@ st.markdown("""
     .css-1d391kg {
         background: linear-gradient(135deg, #1a1f35 0%, #101420 100%);
     }
+
+    .sidebar .sidebar-content {
+    background-image: linear-gradient(#2e7bcf,#2e7bcf);
+    color: white;
     .stButton>button {
         background: linear-gradient(135deg, #6B73FF 0%, #000DFF 100%);
         color: white;
